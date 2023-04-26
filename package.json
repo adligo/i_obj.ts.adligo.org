@@ -1,0 +1,26 @@
+{
+  "author": "Scott Morgan",
+  "bugs": {
+    "url": "https://github.com/adligo/i_obj.ts.adligo.org/issues"
+  },
+  "description": "Interfaces for Objects, equals, hashCode etc.",
+  "dependencies": {
+    "typescript": "^5.0.3"
+  },
+  "homepage": "https://github.com/adligo/i_obj.ts.adligo.org#readme",
+  "keywords": [
+    "symbolic",
+    "link",
+    "linking",
+    "shared",
+    "modules"
+  ],
+  "license": "Apache-2.0",
+  "name": "@ts.adligo.org/i_obj",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adligo/i_obj.ts.adligo.org.git"
+  },
+  "type": "module",
+  "version": "1.1.4"
+}
