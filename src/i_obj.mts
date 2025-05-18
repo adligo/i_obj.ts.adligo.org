@@ -14,6 +14,12 @@
   * limitations under the License.
   */
 
+export interface I_Classifiable {
+  /**
+   * Id this objects class (classification)
+   */
+  getClass(): string;
+}
 
 export interface I_Equatable {
   /**
