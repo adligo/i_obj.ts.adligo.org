@@ -26,7 +26,8 @@
     "url": "git+https://github.com/adligo/i_obj.ts.adligo.org.git"
   },
   "scripts": {
-    "build": "echo this build is an interface project, so this script is simply to make it compatible with the parent build scripts"
+    "build": "tsc",
+    "tsc": "tsc"
   },
   "sharedNodeModuleProjectSLinkEnvVar": ["TESTS4TS_NODE_MODULE_SLINK"],
   "sharedNodeModuleProjectSLinks": ["slink_group_deps.ts.adligo.org", "fab_group_deps.ts.adligo.org"],
