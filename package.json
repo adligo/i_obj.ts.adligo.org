@@ -26,7 +26,7 @@
     "url": "git+https://github.com/adligo/i_obj.ts.adligo.org.git"
   },
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && slink -p",
     "tsc": "tsc"
   },
   "sharedNodeModuleProjectSLinkEnvVar": ["TESTS4TS_NODE_MODULE_SLINK"],
