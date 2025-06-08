@@ -1,7 +1,8 @@
 {
   "author": "Scott Morgan",
   "bin": {
-    "i_obj": "./dist/i_obj.mjs"
+    "i_obj.mjs": "./dist/i_obj.mjs",
+    "i_obj.mts": "./src/i_obj.mts"
   },
   "bugs": {
     "url": "https://github.com/adligo/i_obj.ts.adligo.org/issues"
@@ -30,5 +31,5 @@
   "sharedNodeModuleProjectSLinkEnvVar": ["TESTS4TS_NODE_MODULE_SLINK"],
   "sharedNodeModuleProjectSLinks": ["slink_group_deps.ts.adligo.org", "fab_group_deps.ts.adligo.org"],
   "type": "module",
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
